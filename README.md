@@ -4,7 +4,7 @@ It's a practice repo for demonstrating WP custom Query, WP Admin Page etc.
 
 # Resources Used to make this plugin
 
-[https://codex.wordpress.org/Administration_Menus]
+[Administration_Menus](https://codex.wordpress.org/Administration_Menus){:target="\_blank"}
 [https://developer.wordpress.org/reference/functions/add_menu_page/]
 [https://wordpress.org/documentation/article/roles-and-capabilities/]
 [https://developer.wordpress.org/reference/functions/get_posts/]
